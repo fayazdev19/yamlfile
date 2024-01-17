@@ -1,0 +1,17 @@
+postcard:
+  theme: Travel
+  destination:
+    city: "Paris"
+    country: "France"
+  message: |
+    Hello from Paris!
+    Having a wonderful time exploring the city of lights.
+    Wish you were here with us!
+
+  sender:
+    name: "John Doe"
+    address: "123 Main Street, Anytown, USA"
+  
+  recipient:
+    name: "Jane Smith"
+    address: "456 Elm Avenue, Another City, Another Country"
